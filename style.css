@@ -25,7 +25,6 @@ input {
 }
 .form-container {
 	width: 314px;
-	cursor: pointer;
 	align-items: center;
 	display: flex;
 	justify-content: center;
@@ -55,6 +54,7 @@ input {
 }
 .form .btn {
 	width: 282px;
+	cursor: pointer;
 	padding: 16px;
 	background-color: red;
 	margin-bottom: 20px;
